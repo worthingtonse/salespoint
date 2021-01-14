@@ -14,9 +14,9 @@ The program will be written in PHP so that in the future it can be put on webser
 7. Logger. 
 8. Email Alerter
 9. Coin Delivery
-	i. Send to buyer's Skywallet
-	ii. Send to buyer's Email with message, links to cloudCoins.
-	iii. Down as stack file.
+	1. Send to buyer's Skywallet
+	2. Send to buyer's Email with message, links to cloudCoins.
+	3. Down as stack file.
 10. Thank you page.
 11. Upsale?? (Try RAIDA Mail)
 
