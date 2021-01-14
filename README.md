@@ -24,7 +24,7 @@ The program will be written in PHP so that in the future it can be put on webser
 ## 1. Configuration File
 
 This is called "config.php"
-IT allows the user to customize some settings
+It allows the user to customize some settings
 ```php
 declare( PATH_TO_SKYWALLET_ID = "/opt/sales_point/id/me.skywallet.cc.stack" );
 declare( PATH_TO_BANK = "/opt/sales_point/bank/" ); // Coin Storage Folder
@@ -36,8 +36,8 @@ declare( MINIMUM_PRICE = .01 ); //Dollars per coin from the bitcoin.com exchange
 declare( GET_PRICE_DYNAMICALLY = true); 
 declare( CONVENIENCE_FEE = .24); // How much over the discovered price that should be charged. 
 declare( EXCHANGE_DATA_URL = "https://bitcoin.com/cce/feed" );
-declare( "SUPPORT_EMAIL = "me@gmail.com");
-declare( "SUPPORT_PHONE = "530-784-9933");
+declare( SUPPORT_EMAIL = "me@gmail.com");
+declare( SUPPORT_PHONE = "530-784-9933");
 declare( SMTP_USERNAME = "dfkjs" ); //To send customers coins
 
 /* Payment System API Info*/
