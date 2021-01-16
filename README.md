@@ -91,3 +91,5 @@ If the users elected to download their coins, then the "Thank You" page will sen
 If the user wanted the coins sent to their skywallet, then the user will be told to check their skywallet and given the guid that was included . 
 
 Support information and direction on how to procceed should be included on this page. 
+
+# LINKS 
