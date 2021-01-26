@@ -19,6 +19,9 @@ The program will be written in PHP so that in the future it can be put on webser
 	3. Down as stack file.
 10. Thank you page.
 11. Upsale?? (Try RAIDA Mail)
+12. RAIDA Payer. Sends CloudCoins the RAIDA to Pay the RAIDA for services.
+13. Should allow subscriptions (reoccuring payments)
+14. Choice to buy RAIDA Mail, Later RAIDA Data others and CloudCoin.
 
 
 ## 1. Configuration File
@@ -91,5 +94,8 @@ If the users elected to download their coins, then the "Thank You" page will sen
 If the user wanted the coins sent to their skywallet, then the user will be told to check their skywallet and given the guid that was included . 
 
 Support information and direction on how to procceed should be included on this page. 
+
+## 11 Able to sell other products besides CloudCoin such as RAIDA Mail, RAIDA Data, RAIDA Directory and more. 
+## 12 Able to send CloudCoins to Skywallet Accounts of RAIDA Admins. And Tell RAIDA that they are funded. 
 
 # LINKS 
